@@ -9,6 +9,6 @@
 [LLM for Robotics](./llm.md/#4-llm-for-robotics)
 
 ## 3. Vision-related
-* [arXiv 2023] D^3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
+* **[arXiv 2023]** D^3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
-* [CoRL 2020] Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
+* **[CoRL 2020]** Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
