@@ -3,6 +3,7 @@ Basics of LLM : [Youtube - Introduction to Large Language Models](https://www.yo
 
 Chain of Thought: [Blog: 大模型思维链技术原理](https://zhuanlan.zhihu.com/p/629087587)
 
+LLM Prompting Guide: [Hugging Face](https://huggingface.co/docs/transformers/main/en/tasks/prompting), [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 
 
 # Paper List
