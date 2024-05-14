@@ -10,7 +10,10 @@ About Large Language Model, Diffusion Model, Robotics and Computer Vision 📝.
   * Diffusion Model for Planning and Policy
 
 * [Robotics & Embodied AI](./topics/robotics_embodiedai.md)
+  * Diffusion Model for Planning, Policy and RL
   * LLM for Robotics
+  * Vision-related
+  * Affordance
 
 * [Computer Vision](./topics/cv.md)
   * Vision Language Model
