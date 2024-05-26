@@ -27,4 +27,4 @@ LLM Prompting Guide: [Hugging Face](https://huggingface.co/docs/transformers/mai
 * **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
 
 ## 5. LLM Agent
-waiting
+* **[arXiv 2023]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
