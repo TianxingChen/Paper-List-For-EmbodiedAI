@@ -16,3 +16,12 @@
 
 ## 4. Affordance
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
+
+* **[arXiv 2024]** Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, [arXiv](https://arxiv.org/abs/2401.07487)
+
+* **[arXiv 2024]** Pre-Affordance [](https://air-discover.github.io/PreAfford/)
+
+
+* **[ICLR 2022]** VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects, [website](https://hyperplane-lab.github.io/vat-mart/)
+
+DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation
