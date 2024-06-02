@@ -26,8 +26,12 @@
 
 * **[ICLR 2023]** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation, [arXiv](https://arxiv.org/abs/2207.01971)
 
+## TO Read
+
 * Where2Act: From Pixels to Actions for Articulated 3D Objects
 
 * Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos
 
 * PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments
+
+* Decision Transformer: Reinforcement Learning via Sequence Modeling
