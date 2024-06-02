@@ -40,3 +40,7 @@
 * AO-Grasp: Articulated Object Grasp Generation
 
 * Human-to-Robot Imitation in the Wild
+
+* RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
+
+
