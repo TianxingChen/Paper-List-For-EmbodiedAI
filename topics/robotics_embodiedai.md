@@ -25,3 +25,9 @@
 * **[ICLR 2022]** VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects, [website](https://hyperplane-lab.github.io/vat-mart/)
 
 * **[ICLR 2023]** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation, [arXiv](https://arxiv.org/abs/2207.01971)
+
+* Where2Act: From Pixels to Actions for Articulated 3D Objects
+
+* Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos
+
+* PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments
