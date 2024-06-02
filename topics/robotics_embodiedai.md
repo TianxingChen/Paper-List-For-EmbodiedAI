@@ -21,12 +21,11 @@
 
 * **[arXiv 2024]** Pre-Affordance [](https://air-discover.github.io/PreAfford/)
 
-
 * **[ICLR 2022]** VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects, [website](https://hyperplane-lab.github.io/vat-mart/)
 
 * **[ICLR 2023]** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation, [arXiv](https://arxiv.org/abs/2207.01971)
 
-## TO Read
+## TO READ
 
 * Where2Act: From Pixels to Actions for Articulated 3D Objects
 
@@ -37,3 +36,7 @@
 * Decision Transformer: Reinforcement Learning via Sequence Modeling
 
 * Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis
+
+* AO-Grasp: Articulated Object Grasp Generation
+
+* Human-to-Robot Imitation in the Wild
