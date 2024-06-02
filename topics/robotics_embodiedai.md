@@ -35,3 +35,5 @@
 * PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments
 
 * Decision Transformer: Reinforcement Learning via Sequence Modeling
+
+* Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis
