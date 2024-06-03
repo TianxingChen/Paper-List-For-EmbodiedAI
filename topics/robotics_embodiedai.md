@@ -19,7 +19,7 @@
 
 * **[arXiv 2024]** Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, [arXiv](https://arxiv.org/abs/2401.07487)
 
-* **[arXiv 2024]** Pre-Affordance [](https://air-discover.github.io/PreAfford/)
+* **[arXiv 2024]** PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments, [arXiv](https://air-discover.github.io/PreAfford/)
 
 * **[ICLR 2022]** VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects, [website](https://hyperplane-lab.github.io/vat-mart/)
 
