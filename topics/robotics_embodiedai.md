@@ -43,4 +43,5 @@
 
 * RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
 
+* SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation https://sam-embodied.github.io/, ICML2024
 
