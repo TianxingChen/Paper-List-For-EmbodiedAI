@@ -2,7 +2,7 @@
 
 
 # Paper List
-## 1. Diffusion Model for Planning, Policy and RL
+## 1. Diffusion Model for Planning, Policy, and RL
 [Diffusion Model for Planning, Policy and RL](./diffusion_model.md/#1-diffusion-model-for-planning-policy-and-rl)
 
 ## 2. LLM for robotics
@@ -25,11 +25,11 @@
 
 * **[ICLR 2023]** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation, [arXiv](https://arxiv.org/abs/2207.01971)
 
+* **[CVPR 2022]** Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos, [website](https://stevenlsw.github.io/hoi-forecast/)
+
 ## TO READ
 
 * Where2Act: From Pixels to Actions for Articulated 3D Objects
-
-* Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos
 
 * PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments
 
