@@ -45,3 +45,5 @@
 
 * SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation https://sam-embodied.github.io/, ICML2024
 
+* https://progprompt.github.io/
+
