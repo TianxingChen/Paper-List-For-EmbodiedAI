@@ -27,6 +27,9 @@
 
 * **[CVPR 2022]** Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos, [website](https://stevenlsw.github.io/hoi-forecast/)
 
+## 5. Dataset & Benchmark
+* **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/)
+
 ## TO READ
 
 * Where2Act: From Pixels to Actions for Articulated 3D Objects
