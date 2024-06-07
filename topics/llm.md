@@ -28,3 +28,7 @@ LLM Prompting Guide: [Hugging Face](https://huggingface.co/docs/transformers/mai
 
 ## 5. LLM Agent
 * **[arXiv 2023]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
+
+
+## TO-READ
+* 3D-VLA: A 3D Vision-Language-Action Generative World Model
