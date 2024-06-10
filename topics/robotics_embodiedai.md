@@ -29,8 +29,18 @@
 
 * **[ICCV 2023]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)_
 
-## 5. Dataset & Benchmark
-* **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/)
+## 5. Pose Estimation and Tracking
+* **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
+
+* **[CVPR 2023 (Highlight)]** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts, [website](https://pku-epic.github.io/GAPartNet/)
+
+* **[arXiv 2023]** GAMMA: Generalizable Articulation Modeling and Manipulation for Articulated Objects, [website](https://sites.google.com/view/gamma-articulation)
+
+* **[arXiv 2024]** ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics, [website](https://sites.google.com/view/manipose)
+
+## 6. Dataset & Benchmark
+* **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/), [zhihu](https://zhuanlan.zhihu.com/p/688624666?utm_medium=social&utm_psn=1756405102318243840&utm_source=wechat_session)
+
 
 ## TO READ
 
