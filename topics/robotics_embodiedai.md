@@ -13,6 +13,8 @@
 
 * **[CoRL 2020]** Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
 
+* **[ICLR 2024]** SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, [website](https://arxiv.org/abs/2310.16838)
+
 
 ## 4. Affordance
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
