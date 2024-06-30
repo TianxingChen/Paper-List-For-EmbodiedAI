@@ -72,3 +72,5 @@
 
 * PerAct, Act3D
 
+* https://groups.csail.mit.edu/vision/datasets/ADE20K/
+
