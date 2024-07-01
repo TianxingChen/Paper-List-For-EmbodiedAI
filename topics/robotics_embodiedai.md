@@ -74,3 +74,4 @@
 
 * https://groups.csail.mit.edu/vision/datasets/ADE20K/
 
+* Probing the 3D Awareness of Visual Foundation Model: https://arxiv.org/pdf/2404.08636
