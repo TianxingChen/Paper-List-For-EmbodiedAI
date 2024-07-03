@@ -5,6 +5,7 @@ About Large Language Model, Diffusion Model, Robotics and Computer Vision 📝.
   * Chain of Thought (CoT)
   * LLM Agent
   * https://github.com/zjunlp/LLMAgentPapers?tab=readme-ov-file
+  * https://github.com/zjunlp/Prompt4ReasoningPapers
 
 
 * [Diffusion Model](./topics/diffusion_model.md)
