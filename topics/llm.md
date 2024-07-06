@@ -32,3 +32,5 @@ LLM Prompting Guide: [Hugging Face](https://huggingface.co/docs/transformers/mai
 
 ## TO-READ
 * 3D-VLA: A 3D Vision-Language-Action Generative World Model
+* PDDLGym: Gym Environments from PDDL Problems: https://arxiv.org/abs/2002.06432
+
