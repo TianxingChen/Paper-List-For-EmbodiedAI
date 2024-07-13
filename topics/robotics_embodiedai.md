@@ -17,6 +17,8 @@
 
 * **[ICRA 2024]** UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence, [website](https://warshallrho.github.io/unigarmentmanip/)
 
+* **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
+
 
 ## 4. Affordance
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
@@ -77,3 +79,5 @@
 * https://groups.csail.mit.edu/vision/datasets/ADE20K/
 
 * Probing the 3D Awareness of Visual Foundation Model: https://arxiv.org/pdf/2404.08636
+
+* Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise: https://arxiv.org/pdf/2402.18699
