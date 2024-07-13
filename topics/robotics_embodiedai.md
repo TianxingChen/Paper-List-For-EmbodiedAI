@@ -15,6 +15,8 @@
 
 * **[ICLR 2024]** SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, [website](https://arxiv.org/abs/2310.16838)
 
+* **[ICRA 2024]** UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence, [website](https://warshallrho.github.io/unigarmentmanip/)
+
 
 ## 4. Affordance
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
