@@ -6,6 +6,7 @@ About Large Language Model, Diffusion Model, Robotics and Computer Vision 📝.
   * LLM Agent
   * https://github.com/zjunlp/LLMAgentPapers?tab=readme-ov-file
   * https://github.com/zjunlp/Prompt4ReasoningPapers
+  * TravelPlanner: A Benchmark for Real-World Planning with Language Agents
 
 
 * [Diffusion Model](./topics/diffusion_model.md)
