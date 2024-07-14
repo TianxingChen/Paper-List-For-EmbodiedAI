@@ -13,24 +13,4 @@ LLM Prompting Guide: [Hugging Face](https://huggingface.co/docs/transformers/mai
 * **[Neurips 2022]** Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, [pdf](https://arxiv.org/pdf/2201.11903)
 
 
-## 2. Code Generation
-* **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
-
-## 3. Vision Language Model
-* **[arXiv 2024]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
-
-* **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
-
-## 4. LLM for Robotics
-* **[arXiv 2024]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
-
-* **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
-
-## 5. LLM Agent
-* **[arXiv 2023]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
-
-
-## TO-READ
-* 3D-VLA: A 3D Vision-Language-Action Generative World Model
-* PDDLGym: Gym Environments from PDDL Problems: https://arxiv.org/abs/2002.06432
 

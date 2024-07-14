@@ -1,22 +1,18 @@
 # Paper List of [Tianxing Chen](https://chen-tianxing.github.io)
+
 About Large Language Model, Diffusion Model, Robotics and Computer Vision 📝.
+
+* [Robotics & Embodied AI](./topics/robotics_embodiedai.md)
+  * Diffusion Model for Planning, Policy, and RL
+  * LLM for robotics
+  * Vision-related
+  * Affordance
+  * Pose Estimation and Tracking
+  * Humanoid
+  * Dataset & Benchmark
 
 * [Large Language Model (LLM)](./topics/llm.md)
   * Chain of Thought (CoT)
-  * LLM Agent
-  * https://github.com/zjunlp/LLMAgentPapers?tab=readme-ov-file
-  * https://github.com/zjunlp/Prompt4ReasoningPapers
-  * TravelPlanner: A Benchmark for Real-World Planning with Language Agents
-
-
-* [Diffusion Model](./topics/diffusion_model.md)
-  * Diffusion Model for Planning and Policy
-
-* [Robotics & Embodied AI](./topics/robotics_embodiedai.md)
-  * Diffusion Model for Planning, Policy and RL
-  * LLM for Robotics
-  * Vision-related
-  * Affordance
 
 * [Computer Vision](./topics/cv.md)
   * Vision Language Model

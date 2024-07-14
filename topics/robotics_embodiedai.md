@@ -1,12 +1,49 @@
-# Basic Knowledge
+# Table of contents
+1. Diffusion Model for Planning, Policy, and RL
+2. LLM for robotics
+3. Vision-related
+4. Affordance
+5. Pose Estimation and Tracking
+6. Humanoid
+7. Dataset & Benchmark
 
 
 # Paper List
 ## 1. Diffusion Model for Planning, Policy, and RL
-[Diffusion Model for Planning, Policy and RL](./diffusion_model.md/#1-diffusion-model-for-planning-policy-and-rl)
+* **[arXiv]** Diffusion Models for Reinforcement Learning: A Survey, [arXiv](https://arxiv.org/abs/2311.01223)
+
+* **[ICLR 2023 (Top 5% Notable)]** Is Conditional Generative Modeling all you need for Decision-Making?, [website](https://anuragajay.github.io/decision-diffuser/)
+
+* **[RSS 2023]** Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/)
+
+* [**ICML 2022 (Long Talk)]** Planning with Diffusion for Flexible Behavior Synthesis, [website](https://diffusion-planning.github.io/mobile.html)
+
+* **[ICML 2023 Oral]** Adaptdiffuser: Diffusion models as adaptive self-evolving planners, [website](https://adaptdiffuser.github.io/)
+
+* **[CVPR 2024]** SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution, [website](https://skilldiffuser.github.io/)
+
+* **[arXiv]** Learning a Diffusion Model Policy From Reward via Q-Score Matching, [arXiv](https://arxiv.org/abs/2312.11752)
+
+* **[CoRL 2023]** ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation, [openreview](https://openreview.net/forum?id=W0zgY2mBTA8)
+
+* **[CVPR 2023]** Affordance Diffusion: Synthesizing Hand-Object Interactions, [website](https://judyye.github.io/affordiffusion-www/)
+
+* **[arXiv]** DiffuserLite: Towards Real-time Diffusion Planning, [arXiv](https://arxiv.org/abs/2401.15443)
+
+* **[arXiv]** 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [website](https://3d-diffusion-policy.github.io/)
+
+* **[arXiv]** 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations, [website](https://3d-diffuser-actor.github.io/)
+
+* **[arXiv]** SafeDiffuser: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://safediffuser.github.io/safediffuser/)
+
+* **[arXiv]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
 
 ## 2. LLM for robotics
-[LLM for Robotics](./llm.md/#4-llm-for-robotics)
+* **[arXiv 2024]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
+
+* **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
+
+* **[arXiv 2023]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
 
 ## 3. Vision-related
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
@@ -86,3 +123,9 @@
 * CLIP: Zero-shot Jack of All Trades, [website](https://blog.kzakka.com/posts/clip/), [CLIP GradCAM CLIP_GradCAM_Visualization](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)
 
 * Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise: https://arxiv.org/pdf/2402.18699
+
+* 3D-VLA: A 3D Vision-Language-Action Generative World Model
+* PDDLGym: Gym Environments from PDDL Problems: https://arxiv.org/abs/2002.06432
+* https://github.com/zjunlp/LLMAgentPapers?tab=readme-ov-file
+* https://github.com/zjunlp/Prompt4ReasoningPapers
+* TravelPlanner: A Benchmark for Real-World Planning with Language Agents
