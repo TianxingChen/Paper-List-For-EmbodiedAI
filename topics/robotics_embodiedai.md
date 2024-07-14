@@ -35,6 +35,7 @@
 
 * **[ICCV 2023]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
 
+
 ## 5. Pose Estimation and Tracking
 * **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
 
@@ -79,5 +80,7 @@
 * https://groups.csail.mit.edu/vision/datasets/ADE20K/
 
 * Probing the 3D Awareness of Visual Foundation Model: https://arxiv.org/pdf/2404.08636
+
+* ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models
 
 * Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise: https://arxiv.org/pdf/2402.18699
