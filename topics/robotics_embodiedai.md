@@ -83,4 +83,6 @@
 
 * ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models
 
+* CLIP: Zero-shot Jack of All Trades, [website](https://blog.kzakka.com/posts/clip/), [CLIP GradCAM CLIP_GradCAM_Visualization](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)
+
 * Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise: https://arxiv.org/pdf/2402.18699
