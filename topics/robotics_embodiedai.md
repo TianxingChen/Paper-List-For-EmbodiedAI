@@ -10,6 +10,7 @@
 9. Dataset & Benchmark
 10. Hardware
 11. 2D to 3D Generation
+12. Gaussion Splatting
 
 
 # Paper List
@@ -134,6 +135,9 @@
 
 * **[arXiv 2024]** Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image, [website](https://wukailu.github.io/Unique3D/)
 
+## 12. Gaussian Splatting
+
+* **[SIGGRAPH 2024]** 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [website](https://surfsplatting.github.io/)
 
 ## TO READ
 
