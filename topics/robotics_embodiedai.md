@@ -39,7 +39,7 @@
 
 * **[arXiv]** SafeDiffuser: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://safediffuser.github.io/safediffuser/)
 
-* **[arXiv]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
+* **[CVPR 2024]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
   
 * **[arXiv 2024]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning, [arXiv](https://arxiv.org/abs/2405.18196)
 
@@ -50,6 +50,8 @@
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
 * **[arXiv 2024]** UniDoorManip: Learning Universal Door Manipulation Policy Over Large-scale and Diverse Door Manipulation Environments, [website](https://arxiv.org/pdf/2403.02604)
+
+* **[CoRL 2023 (Oral)]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields, [website](https://yanjieze.com/GNFactor/)
 
 ## 3. 2D-based Manipulation
 * **[NIPS 2023]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
