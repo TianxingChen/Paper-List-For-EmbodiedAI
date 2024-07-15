@@ -1,11 +1,14 @@
 # Table of contents
 1. Diffusion Model for Planning, Policy, and RL
-2. LLM for robotics
-3. Visual Feature: Correspondence, Affordance
-4. Detection & Segmentation
-5. Pose Estimation and Tracking
-6. Humanoid
-7. Dataset & Benchmark
+2. 3D-based Manipulation
+3. 2D-based Manipulation
+4. LLM for robotics
+5. Visual Feature: Correspondence, Affordance
+6. Detection & Segmentation
+7. Pose Estimation and Tracking
+8. Humanoid
+9. Dataset & Benchmark
+10. Hardware
 
 
 # Paper List
@@ -16,7 +19,7 @@
 
 * **[RSS 2023]** Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/)
 
-* [**ICML 2022 (Long Talk)]** Planning with Diffusion for Flexible Behavior Synthesis, [website](https://diffusion-planning.github.io/mobile.html)
+* **[ICML 2022 (Long Talk)]** Planning with Diffusion for Flexible Behavior Synthesis, [website](https://diffusion-planning.github.io/mobile.html)
 
 * **[ICML 2023 Oral]** Adaptdiffuser: Diffusion models as adaptive self-evolving planners, [website](https://adaptdiffuser.github.io/)
 
@@ -24,7 +27,7 @@
 
 * **[arXiv]** Learning a Diffusion Model Policy From Reward via Q-Score Matching, [arXiv](https://arxiv.org/abs/2312.11752)
 
-* **[CoRL 2023]** ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation, [openreview](https://openreview.net/forum?id=W0zgY2mBTA8)
+* **[CoRL 2023]** ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation, [website](https://chained-diffuser.github.io/)
 
 * **[CVPR 2023]** Affordance Diffusion: Synthesizing Hand-Object Interactions, [website](https://judyye.github.io/affordiffusion-www/)
 
@@ -37,10 +40,21 @@
 * **[arXiv]** SafeDiffuser: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://safediffuser.github.io/safediffuser/)
 
 * **[arXiv]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
-* 
+  
 * **[arXiv 2024]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning, [arXiv](https://arxiv.org/abs/2405.18196)
 
-## 2. LLM for robotics
+## 2. 3D-based Manipulation
+
+* **[RSS 2024]** RVT-2: Learning Precise Manipulation from Few Examples [website](https://robotic-view-transformer-2.github.io/)
+
+* **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
+
+* **[arXiv 2024]** UniDoorManip: Learning Universal Door Manipulation Policy Over Large-scale and Diverse Door Manipulation Environments, [website](https://arxiv.org/pdf/2403.02604)
+
+## 3. 2D-based Manipulation
+* **[NIPS 2023]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
+
+## 4. LLM for robotics
 * **[arXiv 2024]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
 
 * **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
@@ -49,7 +63,7 @@
 
 * **[arXiv 2024]** Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation, [arXiv](https://arxiv.org/pdf/2407.00451)
 
-## 3. Visual Feature
+## 5. Visual Feature
 ### 3.1 Correspondence
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
@@ -77,7 +91,7 @@
 
 * **[ICCV 2023]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
 
-## 4. Detection & Segmentation
+## 6. Detection & Segmentation
 
 * **[ECCV 2024]** Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [Github repo](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file)
 
@@ -87,7 +101,7 @@
 
 * **[ECCV 2022]** Mem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model, [website](hkchengrex.com/XMem/)
 
-## 5. Pose Estimation and Tracking
+## 7. Pose Estimation and Tracking
 * **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
 
 * **[CVPR 2023 (Highlight)]** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts, [website](https://pku-epic.github.io/GAPartNet/)
@@ -100,12 +114,15 @@
 
 * **[CVPR 2023]** BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects, [website](https://bundlesdf.github.io/)
 
-## 6. Humanoid
+## 8. Humanoid
 * **[arXiv 2024]** HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/)
 
 
-## 7. Dataset & Benchmark
+## 9. Dataset & Benchmark
 * **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/), [zhihu](https://zhuanlan.zhihu.com/p/688624666?utm_medium=social&utm_psn=1756405102318243840&utm_source=wechat_sessiong)
+
+## 10. Hardware
+* **[arXiv 2024]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
 
 
 ## TO READ
