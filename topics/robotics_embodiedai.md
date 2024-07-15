@@ -45,7 +45,8 @@
 
 * **[arXiv 2023]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
 
-## 3. Vision-related
+## 3. Visual Feature
+### 3.1 Correspondence
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
 * **[CoRL 2020]** Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
@@ -56,11 +57,9 @@
 
 * **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
 
-* **[ICCV 2023]** DEVA: Tracking Anything with Decoupled Video Segmentation, [website](https://hkchengrex.com/Tracking-Anything-with-DEVA/)
 
-* **[ECCV 2022]** Mem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model, [website](hkchengrex.com/XMem/)
-  
-## 4. Affordance
+### 3.2 Affordance
+
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
 
 * **[arXiv 2024]** Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, [arXiv](https://arxiv.org/abs/2401.07487)
@@ -74,6 +73,16 @@
 * **[CVPR 2022]** Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos, [website](https://stevenlsw.github.io/hoi-forecast/)
 
 * **[ICCV 2023]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
+
+## 4. Detection & Segmentation
+
+* **[ECCV 2024]** Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [Github repo](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file)
+
+* **[ICCV 2023]** Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect, Segment and Generate Anything, [Github repo](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+
+* **[ICCV 2023]** DEVA: Tracking Anything with Decoupled Video Segmentation, [website](https://hkchengrex.com/Tracking-Anything-with-DEVA/)
+
+* **[ECCV 2022]** Mem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model, [website](hkchengrex.com/XMem/)
 
 ## 5. Pose Estimation and Tracking
 * **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
