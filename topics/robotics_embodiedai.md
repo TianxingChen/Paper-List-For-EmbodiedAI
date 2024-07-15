@@ -65,6 +65,9 @@
 
 * **[arXiv 2024]** Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation, [arXiv](https://arxiv.org/pdf/2407.00451)
 
+* **[PMLR 2023]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, [website](https://robotics-transformer2.github.io/) 
+
+
 ## 5. Visual Feature
 ### 3.1 Correspondence
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
