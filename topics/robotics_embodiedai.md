@@ -9,6 +9,7 @@
 8. Humanoid
 9. Dataset & Benchmark
 10. Hardware
+11. 2D to 3D Generation
 
 
 # Paper List
@@ -128,6 +129,10 @@
 
 ## 10. Hardware
 * **[arXiv 2024]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
+
+## 11. 2D to 3D Generation
+
+* **[arXiv 2024]** Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image, [website](https://wukailu.github.io/Unique3D/)
 
 
 ## TO READ
