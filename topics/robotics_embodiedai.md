@@ -1,8 +1,10 @@
 # Table of contents
 1. Diffusion Model for Planning, Policy, and RL
 2. LLM for robotics
-3. Vision-related
-4. Affordance
+3. Visual Feature
+   3.1 Correspondence
+   3.2 Affordance
+4. Detection & Segmentation
 5. Pose Estimation and Tracking
 6. Humanoid
 7. Dataset & Benchmark
@@ -56,7 +58,6 @@
 * **[ICRA 2024]** UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence, [website](https://warshallrho.github.io/unigarmentmanip/)
 
 * **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
-
 
 ### 3.2 Affordance
 
