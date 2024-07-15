@@ -37,6 +37,8 @@
 * **[arXiv]** SafeDiffuser: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://safediffuser.github.io/safediffuser/)
 
 * **[arXiv]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
+* 
+* **[arXiv 2024]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning, [arXiv](https://arxiv.org/abs/2405.18196)
 
 ## 2. LLM for robotics
 * **[arXiv 2024]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
@@ -44,6 +46,8 @@
 * **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
 
 * **[arXiv 2023]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
+
+* **[arXiv 2024]** Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation, [arXiv](https://arxiv.org/pdf/2407.00451)
 
 ## 3. Visual Feature
 ### 3.1 Correspondence
