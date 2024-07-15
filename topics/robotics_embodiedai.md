@@ -1,9 +1,7 @@
 # Table of contents
 1. Diffusion Model for Planning, Policy, and RL
 2. LLM for robotics
-3. Visual Feature
-   3.1 Correspondence
-   3.2 Affordance
+3. Visual Feature: Correspondence, Affordance
 4. Detection & Segmentation
 5. Pose Estimation and Tracking
 6. Humanoid
@@ -79,7 +77,7 @@
 
 * **[ECCV 2024]** Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [Github repo](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file)
 
-* **[ICCV 2023]** Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect, Segment and Generate Anything, [Github repo](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+* **[arXiv 2024]** Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect, Segment and Generate Anything, [Github repo](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
 * **[ICCV 2023]** DEVA: Tracking Anything with Decoupled Video Segmentation, [website](https://hkchengrex.com/Tracking-Anything-with-DEVA/)
 
