@@ -139,6 +139,9 @@
 
 * **[SIGGRAPH 2024]** 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [website](https://surfsplatting.github.io/)
 
+## 13. Robotics for Medical
+* **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
+  
 ## TO READ
 
 * Where2Act: From Pixels to Actions for Articulated 3D Objects
