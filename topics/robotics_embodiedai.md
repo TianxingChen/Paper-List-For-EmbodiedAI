@@ -11,6 +11,7 @@
 10. Hardware
 11. 2D to 3D Generation
 12. Gaussion Splatting
+13. Robotics for Medical
 
 
 # Paper List
@@ -44,6 +45,8 @@
 * **[CVPR 2024]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
   
 * **[arXiv 2024]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning, [arXiv](https://arxiv.org/abs/2405.18196)
+
+* **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
 ## 2. 3D-based Manipulation
 
