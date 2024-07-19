@@ -1,5 +1,5 @@
 # Paper List for Embodied AI - [Tianxing Chen](https://tianxingchen.github.io)
-## Table of contents
+## 0. Table of contents
 1. Diffusion Model for Planning, Policy, and RL
 2. 3D-based Manipulation
 3. 2D-based Manipulation
