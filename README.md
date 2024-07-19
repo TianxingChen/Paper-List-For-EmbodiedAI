@@ -134,6 +134,7 @@ Coming Soon
 * **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/), [zhihu](https://zhuanlan.zhihu.com/p/688624666?utm_medium=social&utm_psn=1756405102318243840&utm_source=wechat_sessiong)
 * **[arXiv 2024]** GRUtopia: Dream General Robots in a City at Scale, [Github Repo](https://github.com/OpenRobotLab/GRUtopia)
 * **[ICLR 2024]** AgentBoard: An Analytical Evaluation Board of Multi-Turn LLM Agents, [website](https://hkust-nlp.github.io/agentboard/)
+* **[arXiv 2024]** RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios, [Github repo](https://github.com/notFoundThisPerson/RoboCAS-v0)
 
 ## 11. Hardware
 * **[arXiv 2024]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
