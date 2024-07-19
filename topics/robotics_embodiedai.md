@@ -3,15 +3,16 @@
 2. 3D-based Manipulation
 3. 2D-based Manipulation
 4. LLM for robotics
-5. Visual Feature: Correspondence, Affordance
-6. Detection & Segmentation
-7. Pose Estimation and Tracking
-8. Humanoid
-9. Dataset & Benchmark
-10. Hardware
-11. 2D to 3D Generation
-12. Gaussion Splatting
-13. Robotics for Medical
+5. LLM Agent (Planning)
+6. Visual Feature: Correspondence, Affordance
+7. Detection & Segmentation
+8. Pose Estimation and Tracking
+9. Humanoid
+10. Dataset & Benchmark
+11. Hardware
+12. 2D to 3D Generation
+13. Gaussion Splatting
+14. Robotics for Medical
 
 
 # Paper List
@@ -61,7 +62,7 @@
 ## 3. 2D-based Manipulation
 * **[NIPS 2023]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
 
-## 4. LLM for robotics
+## 4. LLM for robotics (LLM Agent)
 * **[arXiv 2024]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
 
 * **[CoRL 2023]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
@@ -70,11 +71,13 @@
 
 * **[arXiv 2024]** Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation, [arXiv](https://arxiv.org/pdf/2407.00451)
 
-* **[PMLR 2023]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, [website](https://robotics-transformer2.github.io/) 
+* **[PMLR 2023]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, [website](https://robotics-transformer2.github.io/)
 
+## 5. LLM Agnet (planning)
+Coming Soon
 
-## 5. Visual Feature
-### 3.1 Correspondence
+## 6. Visual Feature
+### 6.1 Correspondence
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
 * **[CoRL 2020]** Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
@@ -85,7 +88,7 @@
 
 * **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
 
-### 3.2 Affordance
+### 6.2 Affordance
 
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
 
@@ -101,7 +104,7 @@
 
 * **[ICCV 2023]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
 
-## 6. Detection & Segmentation
+## 7. Detection & Segmentation
 
 * **[ECCV 2024]** Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [Github repo](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file)
 
@@ -111,7 +114,7 @@
 
 * **[ECCV 2022]** Mem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model, [website](hkchengrex.com/XMem/)
 
-## 7. Pose Estimation and Tracking
+## 8. Pose Estimation and Tracking
 * **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
 
 * **[CVPR 2023 (Highlight)]** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts, [website](https://pku-epic.github.io/GAPartNet/)
@@ -124,26 +127,27 @@
 
 * **[CVPR 2023]** BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects, [website](https://bundlesdf.github.io/)
 
-## 8. Humanoid
+## 9. Humanoid
 * **[arXiv 2024]** HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/)
 
 
-## 9. Dataset & Benchmark
+## 10. Dataset & Benchmark
 * **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/), [zhihu](https://zhuanlan.zhihu.com/p/688624666?utm_medium=social&utm_psn=1756405102318243840&utm_source=wechat_sessiong)
 * **[arXiv 2024]** GRUtopia: Dream General Robots in a City at Scale, [Github Repo](https://github.com/OpenRobotLab/GRUtopia)
+* **[arXiv 2024]** AgentBoard: An Analytical Evaluation Board of Multi-Turn LLM Agents, [website](https://hkust-nlp.github.io/agentboard/)
 
-## 10. Hardware
+## 11. Hardware
 * **[arXiv 2024]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
 
-## 11. 2D to 3D Generation
+## 12. 2D to 3D Generation
 
 * **[arXiv 2024]** Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image, [website](https://wukailu.github.io/Unique3D/)
 
-## 12. Gaussian Splatting
+## 13. Gaussian Splatting
 
 * **[SIGGRAPH 2024]** 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [website](https://surfsplatting.github.io/)
 
-## 13. Robotics for Medical
+## 14. Robotics for Medical
 * **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
   
 ## TO READ
