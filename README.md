@@ -14,6 +14,7 @@
 12. 2D to 3D Generation
 13. Gaussion Splatting
 14. Robotics for Medical
+15. Companies
 
 ## 1. Diffusion Model for Planning, Policy, and RL
 * **[arXiv]** Diffusion Models for Reinforcement Learning: A Survey, [arXiv](https://arxiv.org/abs/2311.01223)
@@ -149,7 +150,10 @@ Coming Soon
 
 ## 14. Robotics for Medical
 * **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
-  
+
+## 15. Companies
+* **松灵AgileX**: https://www.agilex.ai/
+
 ## TO READ
 
 * Where2Act: From Pixels to Actions for Articulated 3D Objects
