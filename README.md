@@ -59,7 +59,13 @@
 
 * **[CoRL 2023 (Oral)]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields, [website](https://yanjieze.com/GNFactor/)
 
+### 2.2 Grasping
+* GraspNet：
+  * https://arxiv.org/abs/2212.08333
+* **[arXiv 2024]** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter, [website](https://h-freax.github.io/thinkgrasp_page/)
+
 ## 3. 2D-based Manipulation
+* [website](https://graspnet.net/)
 * **[NIPS 2023]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
 
 ## 4. LLM for robotics (LLM Agent)
@@ -150,9 +156,6 @@ Coming Soon
 
 ## 14. Robotics for Medical
 * **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
-
-## 15. Companies
-* **松灵AgileX**: https://www.agilex.ai/
 
 ## TO READ
 
