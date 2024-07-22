@@ -122,8 +122,7 @@ Coming Soon
 * **[ICCV 2023]** VLPart: Going Denser with Open-Vocabulary Part Segmentation, [website](https://github.com/facebookresearch/VLPart)
 
 * LangSAM [Github repo](https://github.com/luca-medeiros/lang-segment-anything), combining Grounding DINO and SAM
-
-* 
+ 
 
 ## 8. Pose Estimation and Tracking
 * **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
