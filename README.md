@@ -200,3 +200,4 @@ Coming Soon
 * TravelPlanner: A Benchmark for Real-World Planning with Language Agents
 * VisionLLM: https://arxiv.org/abs/2305.11175
 * Ferret: Refer and Ground Anything Anywhere at Any Granularity: https://github.com/apple/ml-ferret
+* https://sites.google.com/view/genie-2024/home
