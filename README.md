@@ -86,8 +86,8 @@ Coming Soon
 * **[arXiv 2024]** Generative Image as Action Models, [website](https://genima-robot.github.io/)
 * **[arXiv 2024]** Genie: Generative Interactive Environments, [website](https://sites.google.com/view/genie-2024/home)
 
-## 6. Visual Feature
-### 6.1 Correspondence
+## 7. Visual Feature
+### 7.1 Correspondence
 * **[arXiv 2023]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
 * **[CoRL 2020]** Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
@@ -98,7 +98,7 @@ Coming Soon
 
 * **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
 
-### 6.2 Affordance
+### 7.2 Affordance
 
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
 
@@ -114,7 +114,7 @@ Coming Soon
 
 * **[ICCV 2023]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
 
-## 7. Detection & Segmentation
+## 8. Detection & Segmentation
 
 * **[ECCV 2024]** Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [Github repo](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file)
 
@@ -129,7 +129,7 @@ Coming Soon
 * LangSAM [Github repo](https://github.com/luca-medeiros/lang-segment-anything), combining Grounding DINO and SAM
  
 
-## 8. Pose Estimation and Tracking
+## 9. Pose Estimation and Tracking
 * **[CVPR 2024 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
 
 * **[CVPR 2023 (Highlight)]** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts, [website](https://pku-epic.github.io/GAPartNet/)
@@ -142,28 +142,28 @@ Coming Soon
 
 * **[CVPR 2023]** BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects, [website](https://bundlesdf.github.io/)
 
-## 9. Humanoid
+## 10. Humanoid
 * **[arXiv 2024]** HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/)
 
 
-## 10. Dataset & Benchmark
+## 11. Dataset & Benchmark
 * **[arXiv 2024]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/), [zhihu](https://zhuanlan.zhihu.com/p/688624666?utm_medium=social&utm_psn=1756405102318243840&utm_source=wechat_sessiong)
 * **[arXiv 2024]** GRUtopia: Dream General Robots in a City at Scale, [Github Repo](https://github.com/OpenRobotLab/GRUtopia)
 * **[ICLR 2024]** AgentBoard: An Analytical Evaluation Board of Multi-Turn LLM Agents, [website](https://hkust-nlp.github.io/agentboard/)
 * **[arXiv 2024]** RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios, [Github repo](https://github.com/notFoundThisPerson/RoboCAS-v0)
 
-## 11. Hardware
+## 12. Hardware
 * **[arXiv 2024]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
 
-## 12. 2D to 3D Generation
+## 13. 2D to 3D Generation
 
 * **[arXiv 2024]** Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image, [website](https://wukailu.github.io/Unique3D/)
 
-## 13. Gaussian Splatting
+## 14. Gaussian Splatting
 
 * **[SIGGRAPH 2024]** 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [website](https://surfsplatting.github.io/)
 
-## 14. Robotics for Medical
+## 15. Robotics for Medical
 * **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
 ## TO READ
