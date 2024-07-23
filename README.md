@@ -5,16 +5,17 @@
 3. 2D-based Manipulation
 4. LLM for robotics
 5. LLM Agent (Planning)
-6. Visual Feature: Correspondence, Affordance
-7. Detection & Segmentation
-8. Pose Estimation and Tracking
-9. Humanoid
-10. Dataset & Benchmark
-11. Hardware
-12. 2D to 3D Generation
-13. Gaussion Splatting
-14. Robotics for Medical
-15. Companies
+6. Generative Model for Embodied
+7. Visual Feature: Correspondence, Affordance
+8. Detection & Segmentation
+9. Pose Estimation and Tracking
+10. Humanoid
+11. Dataset & Benchmark
+12. Hardware
+13. 2D to 3D Generation
+14. Gaussion Splatting
+15. Robotics for Medical
+16. Companies
 
 ## 1. Diffusion Model for Planning, Policy, and RL
 * **[arXiv]** Diffusion Models for Reinforcement Learning: A Survey, [arXiv](https://arxiv.org/abs/2311.01223)
@@ -80,6 +81,10 @@
 
 ## 5. LLM Agnet (planning)
 Coming Soon
+
+## 6. Generative Model for Embodied
+* **[arXiv 2024]** Generative Image as Action Models, [website](https://genima-robot.github.io/)
+* **[arXiv 2024]** Genie: Generative Interactive Environments, [website](https://sites.google.com/view/genie-2024/home)
 
 ## 6. Visual Feature
 ### 6.1 Correspondence
@@ -200,4 +205,4 @@ Coming Soon
 * TravelPlanner: A Benchmark for Real-World Planning with Language Agents
 * VisionLLM: https://arxiv.org/abs/2305.11175
 * Ferret: Refer and Ground Anything Anywhere at Any Granularity: https://github.com/apple/ml-ferret
-* https://sites.google.com/view/genie-2024/home
+* 
