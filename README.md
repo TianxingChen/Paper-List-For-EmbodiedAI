@@ -80,10 +80,11 @@
 * **[PMLR 2023]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, [website](https://robotics-transformer2.github.io/)
 
 ## 5. LLM Agnet (planning)
-Coming Soon
+* **[NIPS 2023]** Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning, [website](https://guansuns.github.io/pages/llm-dm/)
 
 ## 6. Generative Model for Embodied
 * **[arXiv 2024]** Generative Image as Action Models, [website](https://genima-robot.github.io/)
+
 * **[arXiv 2024]** Genie: Generative Interactive Environments, [website](https://sites.google.com/view/genie-2024/home)
 
 ## 7. Visual Feature
