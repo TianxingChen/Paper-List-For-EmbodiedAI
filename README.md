@@ -209,3 +209,4 @@
 * LangSplat
 * Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity
 * SparseDFF
+* ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics
