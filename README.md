@@ -99,6 +99,8 @@
 
 * **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
 
+* **[arXiv 2024]** Theia: Distilling Diverse Vision Foundation Models for Robot Learning, [Github repo](https://github.com/bdaiinstitute/theia)
+
 ### 7.2 Affordance
 
 * **[CoRL 2022]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
