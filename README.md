@@ -212,3 +212,27 @@
 * Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity
 * SparseDFF
 * ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics
+
+1. **Stabilizing Transformers for Reinforcement Learning**
+   - **Summary**: 本文提出了Gated Transformer-XL (GTrXL)，一种改进的Transformer架构，用于解决标准Transformer在强化学习中的优化难题。通过引入层归一化和门控机制，GTrXL在部分可观察性环境中取得了优于LSTM的性能。
+   - [链接](https://arxiv.org/abs/1910.06764)
+
+2. **CoBERL: Contrastive BERT for Reinforcement Learning**
+   - **Summary**: 文章介绍了CoBERL，它结合了对比损失和Transformer架构，通过双向掩码预测和对比学习方法提高强化学习中的数据效率和性能。
+   - [链接](https://arxiv.org/abs/2107.05431)
+
+3. **Adaptive Transformers in RL**
+   - **Summary**: 该研究探索了在强化学习中使用具有自适应注意力跨度的Transformer模型，发现这种方法能够提高模型在需要长期依赖的环境中的性能。
+   - [链接](https://arxiv.org/abs/2004.03761)
+
+4. **Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation**
+   - **Summary**: 本文提出了Actor-Learner Distillation (ALD)方法，通过从大型学习者模型向小型执行者模型进行知识蒸馏，以提高Transformer在强化学习中的样本效率。
+   - [链接](https://arxiv.org/abs/2104.01655)
+
+5. **Deep Transformer Q-Networks for Partially Observable Reinforcement Learning**
+   - **Summary**: 介绍了Deep Transformer Q-Networks (DTQN)，这是一种新型的强化学习架构，使用Transformer的自注意力机制来处理部分可观察性任务，并在多个挑战性环境中展示了有效性。
+   - [链接](https://arxiv.org/abs/2206.01078)
+
+6. **CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer**
+   - **Summary**: CtrlFormer是一种新型的Transformer架构，专注于通过学习可迁移的状态表示来提高视觉控制任务的样本效率，特别强调了在跨任务迁移学习方面的优势。
+   - [链接](https://arxiv.org/abs/2206.08883)
