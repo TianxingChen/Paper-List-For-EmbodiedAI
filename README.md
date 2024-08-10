@@ -99,7 +99,7 @@
 
 * **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
 
-* **[arXiv 2024]** Theia: Distilling Diverse Vision Foundation Models for Robot Learning, [Github repo](https://github.com/bdaiinstitute/theia)
+* **[arXiv 2024]** Theia: Distilling Diverse Vision Foundation Models for Robot Learning, [website](https://theia.theaiinstitute.com/), [Github repo](https://github.com/bdaiinstitute/theia)
 
 ### 7.2 Affordance
 
