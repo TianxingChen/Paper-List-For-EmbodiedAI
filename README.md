@@ -64,6 +64,7 @@
 * GraspNet [website](https://graspnet.net/)：
   * **[TRO 2023]** AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains, [arXiv](https://arxiv.org/abs/2212.08333)
 * **[arXiv 2024]** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter, [website](https://h-freax.github.io/thinkgrasp_page/)
+* **[arXiv 2024]** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [website](https://mrsecant.github.io/GaussianGrasper/)
 
 ## 3. 2D-based Manipulation
 * **[NIPS 2023]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
