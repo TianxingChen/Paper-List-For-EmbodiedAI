@@ -157,6 +157,7 @@
 * **[arXiv 2024]** GRUtopia: Dream General Robots in a City at Scale, [Github Repo](https://github.com/OpenRobotLab/GRUtopia)
 * **[ICLR 2024]** AgentBoard: An Analytical Evaluation Board of Multi-Turn LLM Agents, [website](https://hkust-nlp.github.io/agentboard/)
 * **[arXiv 2024]** RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios, [Github repo](https://github.com/notFoundThisPerson/RoboCAS-v0)
+* **[arXiv 2024]** BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark, [website](https://chernyadev.github.io/bigym/)
 
 ## 12. Hardware
 * **[arXiv 2024]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
