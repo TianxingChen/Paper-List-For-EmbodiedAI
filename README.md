@@ -240,3 +240,6 @@
 6. **CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer**
    - **Summary**: CtrlFormer是一种新型的Transformer架构，专注于通过学习可迁移的状态表示来提高视觉控制任务的样本效率，特别强调了在跨任务迁移学习方面的优势。
    - [链接](https://arxiv.org/abs/2206.08883)
+  
+Sapiens: Foundation for Human Vision Models: https://about.meta.com/realitylabs/codecavatars/sapiens
+Evaluating Real-World Robot Manipulation Policies in Simulation: https://simpler-env.github.io/
