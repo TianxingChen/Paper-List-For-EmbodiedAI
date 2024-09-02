@@ -68,6 +68,10 @@
 * **[arXiv 2024]** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter, [website](https://h-freax.github.io/thinkgrasp_page/)
 * **[arXiv 2024]** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [website](https://mrsecant.github.io/GaussianGrasper/)
 
+### Articulated Object
+* **[CVPR 2022 Oral]** Ditto: Building Digital Twins of Articulated Objects from Interaction, [website](https://ut-austin-rpl.github.io/Ditto/)
+* **[ICRA 2024]** RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation, [website](https://rgbmanip.github.io/)
+
 ## 3. 2D-based Manipulation
 * **[NIPS 2023]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
 
