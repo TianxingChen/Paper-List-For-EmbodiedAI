@@ -50,6 +50,8 @@
 
 * **[arXiv 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
+* **[CoRL 2024]** GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, [website](https://gendp-anon.github.io/)
+
 ## 2. 3D-based Manipulation
 
 * **[RSS 2024]** RVT-2: Learning Precise Manipulation from Few Examples [website](https://robotic-view-transformer-2.github.io/)
