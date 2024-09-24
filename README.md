@@ -64,6 +64,8 @@
 
 * **[ECCV 2024]** ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, [website](https://guanxinglu.github.io/ManiGaussian/)
 
+* **[IROS 2024]** RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective, [website](https://rise-policy.github.io/)
+
 ### Grasping
 * GraspNet [website](https://graspnet.net/)：
   * **[TRO 2023]** AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains, [arXiv](https://arxiv.org/abs/2212.08333)
