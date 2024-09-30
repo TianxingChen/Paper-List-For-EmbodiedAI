@@ -156,6 +156,8 @@
 
 * **[CVPR 2023]** BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects, [website](https://bundlesdf.github.io/)
 
+* **[arXiv 2024]** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild, [website](https://rolpotamias.github.io/WiLoR/)
+
 ## 10. Humanoid
 * **[arXiv 2024]** HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/)
 
